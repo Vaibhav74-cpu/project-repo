@@ -1,4 +1,4 @@
 # project-repo
 This is my first repository
 <br>
-author - vaibhav borkar
+author - vaibhav (vaibhav borkar)
